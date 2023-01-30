@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from "react";
-import ReactDOM from "react-dom";
 
 // Reactte her bir objenin statei olur.
 function Post(){
