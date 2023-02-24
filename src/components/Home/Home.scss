@@ -1,9 +1,0 @@
-.container{
-    display: flex;
-    // objelerimiz bir satıra mı sığsın yoksa satır dolduğunda aşağıya mı geçsin.bunu gösteriyor. 
-    // bu şekilde ise bir aşağıya inecek.
-    flex-wrap: wrap;
-    // container içindeki componentler kenarlara da boş bırakarak kendi aralarında da boşluk bırakarak diziliyorlar.
-    // soldan pixel bırak sağdan bırak gibi ayarlamalar yapmaya gerek kalmıcak bu otomatik olarak elemanları yerleştirip dağıtacak.
-    justify-content: space-around;
-}
