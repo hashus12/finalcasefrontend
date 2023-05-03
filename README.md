@@ -1,4 +1,4 @@
-Site link : https://finalcasefrontend-jmmsjmxis-hashus12.vercel.app
+Site link : https://finalcasefrontend.vercel.app
 
 # Getting Started with Create React App
 
